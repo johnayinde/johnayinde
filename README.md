@@ -5,10 +5,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center"> Hello there 👋, I'm Ayinde John</h1>
-<!-- <p align="center"> A MERN Stack Developer specializing in JavaScript technologies. Professional experience with the technologies listed in the toolbox below.</p> -->
-<!-- <div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div> -->
+
 <p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
@@ -40,19 +37,20 @@
 
 
 <hr>
-<!-- 
+
 <h2 align="center">💬 My Stats</h2>
 <p align="center" align='right'>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnayinde&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs" alt="Ayinde's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnayinde&layout=compact&theme=radical&hide_border=true&hide=php,c,rubby" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr> -->
+<hr> 
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
+  <a target="_blank"href="https://johnayinde.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/ayinde-john-6bb50b87/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/ayindejo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:lolaayinde@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:lolaayinde@gmail.com?subject=Hello%20Ayinde,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
