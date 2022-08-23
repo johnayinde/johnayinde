@@ -42,8 +42,8 @@
 
 <h2 align="center">💬 My Stats</h2>
 <p align="center" align='right'>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnayinde&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs" alt="Ayinde's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnayinde&layout=compact&theme=radical&hide_border=true&hide=php,c,ejs,html,scss,css,rubby,python" />&nbsp;&nbsp;&nbsp;
- <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=johnayindetheme=radical" alt="johnayinde" /></p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnayinde&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs" alt="Ayinde's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnayinde&layout=compact&theme=radical&hide_border=true&hide=php,c,html,css,rubby," />&nbsp;&nbsp;&nbsp;
+ <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=johnayinde&theme=radical" alt="johnayinde" /></p>
 
 </p>
 
